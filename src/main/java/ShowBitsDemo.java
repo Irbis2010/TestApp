@@ -6,7 +6,6 @@ class ВuЬЫе {
         String t;
         int a, b;
         int size;
-        int c;
         size = strs.length; // количество сортируемьх элементов
         // Отобразить исходный массив
         System.out.print("Иcxoдный массив:");
